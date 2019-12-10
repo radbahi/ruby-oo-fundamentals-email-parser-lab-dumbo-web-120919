@@ -15,4 +15,3 @@ class EmailAddressParser
   @email.split(",").uniq
   end
 end 
-binding.pry
